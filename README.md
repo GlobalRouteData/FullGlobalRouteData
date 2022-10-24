@@ -1,2 +1,2 @@
-# FullGlobalRouteData202209
+# FullGlobalRouteData
 ## 这个仓库包含了所有在全球路由信息数据报告中提及的所有完整数据，所有数据均以月份归类。 
